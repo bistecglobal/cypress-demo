@@ -1,0 +1,8 @@
+{
+  "userName": "Admin",
+  "password": "admin123",
+  "wrongPassword": "admin1234",
+  "verifyText": "Dashboard",
+  "errorVerifyText": "Invalid credentials"
+}
+
